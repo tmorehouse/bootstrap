@@ -2,7 +2,10 @@
 layout: docs
 title: Utilities for layout
 description: For faster mobile-friendly and responsive development, Bootstrap includes dozens of utility classes for showing, hiding, aligning, and spacing content.
-group: layout
+menu:
+  docs:
+    parent: layout
+    weight: -10
 toc: true
 ---
 

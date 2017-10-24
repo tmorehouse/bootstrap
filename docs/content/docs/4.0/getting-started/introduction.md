@@ -2,7 +2,10 @@
 layout: docs
 title: Introduction
 description: Get started with Bootstrap, the world's most popular framework for building responsive, mobile-first sites, with the Bootstrap CDN and a template starter page.
-group: getting-started
+menu:
+  docs:
+    parent: getting-started
+    weight: -100
 aliases:
   - /docs/
   - /docs/4.0/

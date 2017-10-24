@@ -2,7 +2,10 @@
 layout: docs
 title: Badges
 description: Documentation and examples for badges, our small count and labeling component.
-group: components
+menu:
+  docs:
+    name: Badge
+    parent: components
 toc: true
 ---
 

@@ -2,7 +2,10 @@
 layout: docs
 title: JavaScript
 description: Bring Bootstrap to life with our optional JavaScript plugins built on jQuery. Learn about each plugin, our data and programmatic API options, and more.
-group: getting-started
+menu:
+  docs:
+    parent: getting-started
+    weight: -60
 toc: true
 ---
 

@@ -2,7 +2,10 @@
 layout: docs
 title: Reboot
 description: Reboot, a collection of element-specific CSS changes in a single file, kickstart Bootstrap to provide an elegant, consistent, and simple baseline to build upon.
-group: content
+menu:
+  docs:
+    parent: content
+    weight: -60
 aliases: "/docs/4.0/content/"
 toc: true
 ---

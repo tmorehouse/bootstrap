@@ -2,7 +2,10 @@
 layout: docs
 title: Tables
 description: Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.
-group: content
+menu:
+  docs:
+    parent: content
+    weight: -20
 toc: true
 ---
 

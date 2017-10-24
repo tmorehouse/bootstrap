@@ -2,7 +2,11 @@
 layout: docs
 title: Theming Bootstrap
 description: Customize Bootstrap 4 with our new built-in Sass variables for global style preferences for easy theming and component changes.
-group: getting-started
+menu:
+  docs:
+    name: Theming
+    parent: getting-started
+    weight: -50
 toc: true
 aliases: "/docs/4.0/getting-started/options/"
 ---

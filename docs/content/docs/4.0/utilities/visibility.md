@@ -2,7 +2,9 @@
 layout: docs
 title: Visibility
 description: Control the visibility, without modifying the display, of elements with visibility utilities.
-group: utilities
+menu:
+  docs:
+    parent: utilities
 ---
 
 Set the `visibility` of elements with our visibility utilities. These do not modify the `display` value at all and are helpful for hiding content from most users, but still keeping them for screen readers.

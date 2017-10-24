@@ -2,7 +2,10 @@
 layout: docs
 title: Media object
 description: Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.
-group: layout
+menu:
+  docs:
+    parent: layout
+    weight: -20
 toc: true
 ---
 

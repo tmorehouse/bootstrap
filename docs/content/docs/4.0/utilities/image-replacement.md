@@ -2,7 +2,9 @@
 layout: docs
 title: Image replacement
 description: Swap text for background images with the image replacement class.
-group: utilities
+menu:
+  docs:
+    parent: utilities
 toc: true
 ---
 

@@ -2,7 +2,10 @@
 layout: docs
 title: Contents
 description: Discover what's included in Bootstrap, including our precompiled and source code flavors. Remember, Bootstrap's JavaScript plugins require jQuery.
-group: getting-started
+menu:
+  docs:
+    parent: getting-started
+    weight: -80
 toc: true
 ---
 

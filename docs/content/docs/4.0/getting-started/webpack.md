@@ -2,7 +2,10 @@
 layout: docs
 title: Webpack
 description: Learn how to include Bootstrap in your project using Webpack 3.
-group: getting-started
+menu:
+  docs:
+    parent: getting-started
+    weight: -30
 toc: true
 ---
 

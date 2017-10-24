@@ -2,7 +2,10 @@
 layout: docs
 title: Vertical alignment
 description: Easily change the vertical alignment of inline, inline-block, inline-table, and table cell elements.
-group: utilities
+menu:
+  docs:
+    name: Vertical align
+    parent: utilities
 ---
 
 Change the alignment of elements with the [`vertical-alignment`](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align) utilities. Please note that vertical-align only affects inline, inline-block, inline-table, and table cell elements.
