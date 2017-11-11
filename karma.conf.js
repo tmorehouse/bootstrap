@@ -1,13 +1,11 @@
 module.exports = function(config) {
-  const jQueryVersion = process.env.jqueryOld === 'true' ? 'js/tests/vendor/jquery-1.9.1.min.js' : 'assets/js/vendor/jquery-slim.min.js'
+  const jqueryFile = process.env.jqueryOld === 'true' ? 'js/tests/vendor/jquery-1.9.1.min.js' : 'assets/js/vendor/jquery-slim.min.js'
   config.set({
     frameworks: ['qunit'],
     plugins: ['karma-chrome-launcher', 'karma-qunit'],
-
-
     // list of files / patterns to load in the browser
     files: [
-      jQueryVersion,
+      jqueryFile,
       'assets/js/vendor/popper.min.js',
       'js/dist/util.js',
       'js/dist/alert.js',
